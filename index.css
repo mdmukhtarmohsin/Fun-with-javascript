@@ -1,0 +1,17 @@
+#h1tag {
+    display: flex;
+    justify-content: center;
+    background-color: dodgerblue;
+}
+
+#YES {
+    position: relative;
+    left: 830px;
+    top: 10px;
+}
+
+#NO {
+    position: relative;
+    left: 840px;
+    top: 10px;
+}
